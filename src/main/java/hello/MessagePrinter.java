@@ -16,7 +16,7 @@ public class MessagePrinter {
     private MessageService service;
 
     /**
-     * 设置service的值
+     * 设置service的值...
      * @param service
      */
 //    @Autowired
