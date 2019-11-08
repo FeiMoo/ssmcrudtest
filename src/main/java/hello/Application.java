@@ -7,5 +7,6 @@ public class Application {
         MessageService service = new MessageService();
         printer.setService(service);
         printer.printMessage();
+        //123
     }
 }
